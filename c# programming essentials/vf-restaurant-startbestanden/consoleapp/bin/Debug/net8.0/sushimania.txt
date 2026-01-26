@@ -1,0 +1,5 @@
+California Roll;hoofdgerecht;300;7
+Salmon Nigiri;hoofdgerecht;200;8
+Miso Soup;voorgerecht;50;3
+Green Tea;drank;0;2
+Mochi;dessert;120;4

@@ -1,0 +1,5 @@
+Whopper;hoofdgerecht;850;9
+Chicken Nuggets;hoofdgerecht;500;6
+Fries;voorgerecht;350;3
+Milkshake;drank;400;4
+Cheesecake;dessert;450;5

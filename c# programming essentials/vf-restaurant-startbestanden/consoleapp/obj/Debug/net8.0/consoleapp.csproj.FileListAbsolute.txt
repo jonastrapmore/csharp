@@ -1,0 +1,17 @@
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\consoleapp.exe
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\burgerking.txt
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\pizzahut.txt
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\sushimania.txt
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\consoleapp.deps.json
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\consoleapp.runtimeconfig.json
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\bin\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfo.cs
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\refint\consoleapp.dll
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
+C:\Users\more\thomasmore\vf-restaurant-startbestanden\vf-restaurant-startbestanden\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll

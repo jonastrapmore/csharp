@@ -1,0 +1,5 @@
+Margherita;hoofdgerecht;700;8
+Pepperoni;hoofdgerecht;800;10
+Bruschetta;voorgerecht;150;5
+Tiramisu;dessert;400;6
+Cola;drank;150;2
