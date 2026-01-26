@@ -1,0 +1,3 @@
+Proxima b;rots;4,8;7,5
+Proxima c;rots;5,0;220
+Proxima d;rots;4,5;4,3

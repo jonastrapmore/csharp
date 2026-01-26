@@ -1,0 +1,17 @@
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.exe
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\luhman16.txt
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\proxima-centauri.txt
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\zon.txt
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.deps.json
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.runtimeconfig.json
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.dll
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.pdb
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfoInputs.cache
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfo.cs
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.csproj.CoreCompileInputs.cache
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.dll
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\refint\consoleapp.dll
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.pdb
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll

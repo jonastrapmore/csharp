@@ -1,0 +1,8 @@
+Mercurius;rots;4,5;58
+Venus;rots;4,5;108
+Aarde;rots;4,6;147
+Mars;rots;4,6;207
+Jupiter;gasreus;4,6;742
+Saturnus;gasreus;4,6;1479
+Uranus;ijsreus;4,6;2871
+Neptunus;ijsreus;4,6;4495

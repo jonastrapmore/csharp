@@ -1,0 +1,29 @@
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfoInputs.cache
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfo.cs
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.csproj.CoreCompileInputs.cache
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.exe
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.deps.json
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.runtimeconfig.json
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.dll
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.pdb
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.dll
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\refint\consoleapp.dll
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.pdb
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
+L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\1-f-starwars\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.exe
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.deps.json
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.runtimeconfig.json
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\bin\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfo.cs
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.sourcelink.json
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\refint\consoleapp.dll
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
+C:\Users\more\thomasmore\websites\websites\c#\1-f-starwars\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll

@@ -1,0 +1,3 @@
+@echo off
+.\zip-logic\windows\x86_64\create-zip-exam.exe
+set /p DUMMY=Druk op ENTER om te sluiten...
