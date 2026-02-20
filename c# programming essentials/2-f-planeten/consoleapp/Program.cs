@@ -1,5 +1,4 @@
 ﻿// Gelieve je voornaam, achternaam, studentnummer en klas in te vullen in onderstaande variabele
-using System.Security.Cryptography;
 
 string studentVoornaam = "XXXXXXX";
 string studentAchternaam = "XXXXXXX";
@@ -24,8 +23,8 @@ while (keuzeHoofdmenu !=1)
     //kies Ster
     do
     {
-        keuzeSter = LeesStringNietLeeg("Kies een ster (zon, luhman16, proxima-cenatauri)");
-    }while(keuzeSter != "zon" && keuzeSter != "luhman16" && keuzeSter != "proxima-centauri");
+        keuzeSter = LeesStringNietLeeg("Kies een ster (zon, luhman16, proxima-centauri)");
+    } while (keuzeSter != "zon" && keuzeSter != "luhman16" && keuzeSter != "proxima-centauri");
     
     string[] subMenu = ["Toon alle planeten", "Toon planeet dichtste van ster", "Toon planeet verste van ster", "Toon alle planeten van type"];
     int keuzeSubMenu = keuzeMenu(subMenu);
@@ -46,11 +45,13 @@ while (keuzeHoofdmenu !=1)
             do
             {
                 Console.WriteLine("Geef een type planeet (rots, gasreus of ijsreus):");
-                typePlaneet = Console.ReadLine().ToLower();   
-            }while(typePlaneet == "rots" || typePlaneet == "gasreus" || typePlaneet == "ijsreus");
+                typePlaneet = Console.ReadLine().ToLower();
+            } while (typePlaneet != "rots" && typePlaneet != "gasreus" && typePlaneet != "ijsreus");
             ToonPlanetenVanType(keuzeSter,typePlaneet);
             break;
     }
+
+    keuzeHoofdmenu = keuzeMenu(hoofdmenu);
 }
 
 void LeesPlaneten(string ster)
@@ -147,10 +148,10 @@ void ToonPlanetenVanType(string ster, string typePlaneet)
             printInfoPlaneet(data[0],data[3],data[1],data[2]);
             gevonden = true;
         }
-        if(!gevonden)
-        {
-            Console.WriteLine("geen planeten gevonden");
-        }
+    }
+    if(!gevonden)
+    {
+        Console.WriteLine("geen planeten gevonden");
     }
 }
 

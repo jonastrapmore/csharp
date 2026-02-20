@@ -8,31 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\more\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\more\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\thomasmore\\programming essentials\\examen-PE\\f-starwars-planeten-startbestanden\\2-f-planeten\\consoleapp\\consoleapp.csproj",
+      "projectUniqueName": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\2-f-planeten\\consoleapp\\consoleapp.csproj",
       "projectName": "consoleapp",
-      "projectPath": "L:\\thomasmore\\programming essentials\\examen-PE\\f-starwars-planeten-startbestanden\\2-f-planeten\\consoleapp\\consoleapp.csproj",
+      "projectPath": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\2-f-planeten\\consoleapp\\consoleapp.csproj",
       "packagesPath": "C:\\Users\\more\\.nuget\\packages\\",
-      "outputPath": "L:\\thomasmore\\programming essentials\\examen-PE\\f-starwars-planeten-startbestanden\\2-f-planeten\\consoleapp\\obj\\",
+      "outputPath": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\2-f-planeten\\consoleapp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

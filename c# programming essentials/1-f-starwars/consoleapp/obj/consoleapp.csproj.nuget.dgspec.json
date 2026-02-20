@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\more\\thomasmore\\websites\\websites\\c#\\1-f-starwars\\consoleapp\\consoleapp.csproj": {}
+    "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\1-f-starwars\\consoleapp\\consoleapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\more\\thomasmore\\websites\\websites\\c#\\1-f-starwars\\consoleapp\\consoleapp.csproj": {
+    "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\1-f-starwars\\consoleapp\\consoleapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\more\\thomasmore\\websites\\websites\\c#\\1-f-starwars\\consoleapp\\consoleapp.csproj",
+        "projectUniqueName": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\1-f-starwars\\consoleapp\\consoleapp.csproj",
         "projectName": "consoleapp",
-        "projectPath": "C:\\Users\\more\\thomasmore\\websites\\websites\\c#\\1-f-starwars\\consoleapp\\consoleapp.csproj",
+        "projectPath": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\1-f-starwars\\consoleapp\\consoleapp.csproj",
         "packagesPath": "C:\\Users\\more\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\more\\thomasmore\\websites\\websites\\c#\\1-f-starwars\\consoleapp\\obj\\",
+        "outputPath": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\1-f-starwars\\consoleapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -15,3 +15,21 @@ L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestande
 L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.pdb
 L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
 L:\thomasmore\programming essentials\examen-PE\f-starwars-planeten-startbestanden\2-f-planeten\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.exe
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\luhman16.txt
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\proxima-centauri.txt
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\zon.txt
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.deps.json
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.runtimeconfig.json
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\bin\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfo.cs
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.sourcelink.json
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\refint\consoleapp.dll
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
+C:\Users\more\thomasmore\c#\csharp\c# programming essentials\2-f-planeten\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll

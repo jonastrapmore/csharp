@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\more\\thomasmore\\vf-restaurant-startbestanden\\vf-restaurant-startbestanden\\consoleapp\\consoleapp.csproj",
+      "projectUniqueName": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\vf-restaurant-startbestanden\\consoleapp\\consoleapp.csproj",
       "projectName": "consoleapp",
-      "projectPath": "C:\\Users\\more\\thomasmore\\vf-restaurant-startbestanden\\vf-restaurant-startbestanden\\consoleapp\\consoleapp.csproj",
+      "projectPath": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\vf-restaurant-startbestanden\\consoleapp\\consoleapp.csproj",
       "packagesPath": "C:\\Users\\more\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\more\\thomasmore\\vf-restaurant-startbestanden\\vf-restaurant-startbestanden\\consoleapp\\obj\\",
+      "outputPath": "C:\\Users\\more\\thomasmore\\c#\\csharp\\c# programming essentials\\vf-restaurant-startbestanden\\consoleapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\more\\AppData\\Roaming\\NuGet\\NuGet.Config"
