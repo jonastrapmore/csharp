@@ -1,0 +1,11 @@
+Student;Mieke;Vreys;89;1
+Student;Jef;Ooms;78;2
+Student;Marie;Leysen;56;3
+Student;Kristof;Gheys;47;4
+Student;Greet;Heyns;95;5
+Student;Sofie;Leyns;75;6
+Student;Dirk;Vanhemel;64;7
+Student;Jan;Pittevils;51;8
+Student;Herman;Brems;34;9
+Docent;Indy;Hendrickx;150;1
+Docent;Joren;Syneave;60;2

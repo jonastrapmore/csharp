@@ -1,0 +1,16 @@
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\bin\Debug\net8.0\consoleapp.exe
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\bin\Debug\net8.0\StudentEnPunt.txt
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\bin\Debug\net8.0\consoleapp.deps.json
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\bin\Debug\net8.0\consoleapp.runtimeconfig.json
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\bin\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\bin\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfo.cs
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.sourcelink.json
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.dll
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\refint\consoleapp.dll
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.pdb
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
+C:\Users\more\thomasmore\Programming oefeningen gits\aj2526-assignment-csharp-ooprogramming-oefeningen-pe-jonastrapmore\06\06_00\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll
